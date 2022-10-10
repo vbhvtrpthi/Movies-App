@@ -1,0 +1,8 @@
+CSS In React
+1) Inline CSS- style={{}}
+2) Object
+3) External CSS File
+4) External MOdule file
+
+
+for deploying create a folder- npm run build
